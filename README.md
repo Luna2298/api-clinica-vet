@@ -5,7 +5,7 @@ mediante el id, este dueño NO debe tener previamente asociado otra mascota, ya 
 relacion entre Mascotas y Dueños sea de Uno a Uno (tengo conocimiento de todas las variantes de relaciones 
 que existen al crear registros y como funciona cada una). 
 
-Se que en al vida real esto no es asi, ya que un Dueño puede tener varias mascotas y viceversa, pero al razon de haber 
+Se que en al vida real esto no es asi, ya que un Dueño puede tener varias mascotas y viceversa, pero la razon de haber 
 creado el sistema de este modo es debido a que mi objetivo principal era aprender sobre el desarrollo de APIS con Spring Boot,
 Docker, dockerizar esta app y subir este sistema a un servidor web, a su vez tambien subir la bd del sistema en otro servidor,
 comprender la razon de porque es mejor separar la api y bd en distintos servidores.
