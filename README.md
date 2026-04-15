@@ -1,7 +1,7 @@
 Este proyecto es una api, mi primera api la cual trata sobre una veterinaria que se encarga de gestionar los CRUDs de Mascotas y Dueños. 
 
 Primero se crean el/los Dueños y luego se puede crear la Mascota, pero a la mascota se la crea de forma que se relaciona un dueño
-mediante el id, este dueño debe si o si no tener previamente asociado otra mascota, ya que diseñe el sistema de forma que la 
+mediante el id, este dueño NO debe tener previamente asociado otra mascota, ya que diseñe el sistema de forma que la 
 relacion entre Mascotas y Dueños sea de Uno a Uno (tengo conocimiento de todas las variantes de relaciones 
 que existen al crear registros y como funciona cada una). 
 
